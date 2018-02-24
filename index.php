@@ -33,7 +33,7 @@
             ],
             [
                 {
-                    v: 'Hamo', f:'Hamo<div style="color:red; font-style:italic">1947 - ?</div>'
+                    v: 'Hamo', f:'Hamo<div style="color:red; font-style:italic">1947 <br>-<br> 2004</div>'
                 }, 'Ruben', ''
             ],
             [
@@ -83,7 +83,7 @@
             ],
             [
                 {
-                    v: 'Andrush', f:'Andrush<div style="color:red; font-style:italic">1931 - </div>'
+                    v: 'Andrush', f:'Andrush<div style="color:red; font-style:italic">1931 <br>-<br> 2018</div>'
                 }, 'Vardan', ''
             ],
             [
@@ -143,7 +143,42 @@
             ],
             [
                 {
-                    v: 'Pargev', f:'Pargev<div style="color:red; font-style:italic">1935 - 2007</div>'
+                    v: 'Liparit', f:'Liparit<div style="color:red; font-style:italic">1914 <br>-<br> 1991</div>'
+                }, 'Harutyn', ''
+            ],
+            [
+                {
+                    v: 'Zaven', f:'Zaven<div style="color:red; font-style:italic">1925 <br>-<br> 1992</div>'
+                }, 'Harutyn', ''
+            ],
+            [
+                {
+                    v: 'HovhanesZaven', f:'Hovhanes<div style="color:red; font-style:italic">1957 - 2007</div>'
+                }, 'Zaven', ''
+            ],
+            [
+                {
+                    v: 'KarenHovhanesZaven', f:'Karen<div style="color:red; font-style:italic">198? - ?</div>'
+                }, 'HovhanesZaven', ''
+            ],
+            [
+                {
+                    v: 'NarineZaven', f:'Narine<div style="color:red; font-style:italic">195?</div>'
+                }, 'Zaven', ''
+            ],
+            [
+                {
+                    v: 'KarineZaven', f:'Karine<div style="color:red; font-style:italic">195?</div>'
+                }, 'Zaven', ''
+            ],
+            [
+                {
+                    v: 'SurikZaven', f:'Surik<div style="color:red; font-style:italic">1931 <br>-<br> 1991</div>'
+                }, 'Harutyn', ''
+            ],
+            [
+                {
+                    v: 'Pargev', f:'Pargev<div style="color:red; font-style:italic">1935 <br>-<br> 2007</div>'
                 }, 'Yervand', ''
             ],
             [
@@ -180,6 +215,101 @@
                 {
                     v: 'Artur', f:'Artur<div style="color:red; font-style:italic">196?</div>'
                 }, 'Pargev', ''
+            ],
+            [
+                {
+                    v: 'GeghamAvetis', f:'Gegham<div style="color:red; font-style:italic">19??</div>'
+                }, 'Avetis', ''
+            ],
+            [
+                {
+                    v: 'GurgenGeghamAvetis', f:'Gurgen<div style="color:red; font-style:italic">1930 <br>-<br> 2015</div>'
+                }, 'GeghamAvetis', ''
+            ],
+            [
+                {
+                    v: 'BabkenGeghamAvetis', f:'Babken<div style="color:red; font-style:italic">1930 <br>-<br> 20??</div>'
+                }, 'GeghamAvetis', ''
+            ],
+            [
+                {
+                    v: 'HrachGeghamAvetis', f:'Hrach<div style="color:red; font-style:italic">1935 <br>-<br> 20??</div>'
+                }, 'GeghamAvetis', ''
+            ],
+            [
+                {
+                    v: 'VazgenGeghamAvetis', f:'Vazgen<div style="color:red; font-style:italic">1948</div>'
+                }, 'GeghamAvetis', ''
+            ],
+            [
+                {
+                    v: 'MargarGeghamAvetis', f:'Margar<div style="color:red; font-style:italic">1950</div>'
+                }, 'GeghamAvetis', ''
+            ],
+            [
+                {
+                    v: 'AvetiseghamAvetis', f:'Avetis<div style="color:red; font-style:italic">1952</div>'
+                }, 'GeghamAvetis', ''
+            ],
+            [
+                {
+                    v: 'NoroAvetis', f:'Noro<div style="color:red; font-style:italic">19??</div>'
+                }, 'Avetis', ''
+            ],
+            [
+                {
+                    v: 'RafikNoroAvetis', f:'Rafik<div style="color:red; font-style:italic">19?? - ?</div>'
+                }, 'NoroAvetis', ''
+            ],
+            [
+                {
+                    v: 'VardanRafikNoroAvetis', f:'Vardan<div style="color:red; font-style:italic">19??</div>'
+                }, 'RafikNoroAvetis', ''
+            ],
+            [
+                {
+                    v: 'NoroRafikNoroAvetis', f:'Noro<div style="color:red; font-style:italic">19??</div>'
+                }, 'RafikNoroAvetis', ''
+            ],
+            [
+                {
+                    v: 'RazmikNoroAvetis', f:'Razmik<div style="color:red; font-style:italic">19??</div>'
+                }, 'NoroAvetis', ''
+            ],
+            [
+                {
+                    v: 'AramaisAvetis', f:'Aramais<div style="color:red; font-style:italic">19??</div>'
+                }, 'Avetis', ''
+            ],
+            [
+                {
+                    v: 'AnahitAramaisAvetis', f:'Anahit<div style="color:red; font-style:italic">1949</div>'
+                }, 'AramaisAvetis', ''
+            ],
+            [
+                {
+                    v: 'AghasAramaisAvetis', f:'Aghas<div style="color:red; font-style:italic">1951 <br>-<br> 2009</div>'
+                }, 'AramaisAvetis', ''
+            ],
+            [
+                {
+                    v: 'AramAghasAramaisAvetis', f:'Aram<div style="color:red; font-style:italic">198?</div>'
+                }, 'AghasAramaisAvetis', ''
+            ],
+            [
+                {
+                    v: 'ArturAghasAramaisAvetis', f:'Artur<div style="color:red; font-style:italic">198?</div>'
+                }, 'AghasAramaisAvetis', ''
+            ],
+            [
+                {
+                    v: 'ShushanAramaisAvetis', f:'Shushan<div style="color:red; font-style:italic">1953</div>'
+                }, 'AramaisAvetis', ''
+            ],
+            [
+                {
+                    v: 'LalaAramaisAvetis', f:'Lala<div style="color:red; font-style:italic">1958</div>'
+                }, 'AramaisAvetis', ''
             ],
         ]);
 
